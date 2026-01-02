@@ -1,14 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-size=28&
-duration=2500&
-pause=800&
-color=F7B733&
-center=true&
-vCenter=true&
-width=600&
-lines=Hi%2C+I'm+Swapnil Verma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=I+am+Swapnil+Verma;developer+and+DevOps+Engineer)](https://git.io/typing-svg)
 
 
 **SAP HANA developer/admin by day 🌞, wiring high-performance data systems; aspiring DevOps engineer by night 🌙, crafting CI/CD pipelines, containerized apps, and cloud-native infra to ship ideas faster and safer.**
