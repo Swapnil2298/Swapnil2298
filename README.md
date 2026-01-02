@@ -1,5 +1,11 @@
 ## Hi there 👋
-**SAP HANA developer/admin by day, wiring high-performance data systems; aspiring DevOps engineer by night, crafting CI/CD pipelines, containerized apps, and cloud-native infra to ship ideas faster and safer.**
+**SAP HANA developer/admin by day 🌞, wiring high-performance data systems; aspiring DevOps engineer by night 🌙, crafting CI/CD pipelines, containerized apps, and cloud-native infra to ship ideas faster and safer.**
+
+<img width="245" height="148" alt="image" src="https://github.com/user-attachments/assets/391d506c-6624-43c4-8f22-9b5df13b5d54" />
+
+<img width="247" height="204" alt="image" src="https://github.com/user-attachments/assets/40fd3a4b-c041-4cc5-8470-817e9e4a6f99" />
+
+
 <!--
 **Swapnil2298/Swapnil2298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
