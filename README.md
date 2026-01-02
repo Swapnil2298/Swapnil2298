@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+**SAP HANA developer/admin by day, wiring high-performance data systems; aspiring DevOps engineer by night, crafting CI/CD pipelines, containerized apps, and cloud-native infra to ship ideas faster and safer.
+**
 <!--
 **Swapnil2298/Swapnil2298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
