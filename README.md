@@ -4,7 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7B733&center=true&vCenter=true&width=500&lines=Developer+|+DevOps+Engineer)](https://git.io/typing-svg)
 
-**SAP HANA developer/admin by day 🌞, wiring high-performance data systems; aspiring DevOps engineer by night 🌙, crafting CI/CD pipelines, containerized apps, and cloud-native infra to ship ideas faster and safer.**
+**SAP HANA developer/admin by day 🌞, designing, tuning, and safeguarding high‑performance data landscapes for critical business workloads; aspiring DevOps engineer by night 🌙, architecting CI/CD pipelines, containerized microservices, and cloud‑native infrastructure with robust monitoring and automation to ship reliable features faster, safer, and at scale.**
+
 
 <img width="200" height="185" alt="image" src="https://github.com/user-attachments/assets/391d506c-6624-43c4-8f22-9b5df13b5d54" />
 <img width="204" height="204" alt="image" src="https://github.com/user-attachments/assets/40fd3a4b-c041-4cc5-8470-817e9e4a6f99" />
@@ -13,6 +14,8 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/70737491-7d52-4e7e-82ed-799240d7cf96" />
 <img width="194" height="178" alt="image" src="https://github.com/user-attachments/assets/24484367-fae1-44dd-aa98-b6ce33f109e5" />
 <img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/49e43581-111a-41d4-9a5c-464b7cbe2ae4" />
+<img width="257" height="148" alt="image" src="https://github.com/user-attachments/assets/a8081c13-ae3b-435e-be3b-ac9bfb87939d" />
+
 
 <!--
 **Swapnil2298/Swapnil2298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
