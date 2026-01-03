@@ -6,6 +6,7 @@
 
 **SAP HANA developer/admin by day 🌞, designing, tuning, and safeguarding high‑performance data landscapes for critical business workloads; aspiring DevOps engineer by night 🌙, architecting CI/CD pipelines, containerized microservices, and cloud‑native infrastructure with robust monitoring and automation to ship reliable features faster, safer, and at scale.**
 
+**A Look at the Tools I’ve Harnessed:**
 
 <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/391d506c-6624-43c4-8f22-9b5df13b5d54" />
 <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/40fd3a4b-c041-4cc5-8470-817e9e4a6f99" />
