@@ -8,7 +8,7 @@
 
 **A Look at the Tools I’ve Harnessed:**
 
-<img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/391d506c-6624-43c4-8f22-9b5df13b5d54" />
+<img width="85" height="85" alt="image" src="https://github.com/user-attachments/assets/391d506c-6624-43c4-8f22-9b5df13b5d54" />
 <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/40fd3a4b-c041-4cc5-8470-817e9e4a6f99" />
 <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/4401679d-8253-48ef-84e0-e47890db2f6c" />
 <img width="95" height="85" alt="image" src="https://github.com/user-attachments/assets/80fd6d4d-c34b-4e3c-b8f3-7271c8bf4679" />
