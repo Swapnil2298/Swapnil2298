@@ -8,8 +8,6 @@
 
 **A Look at the Tools I’ve Harnessed:**
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
-
   <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/391d506c-6624-43c4-8f22-9b5df13b5d54" />
   <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/40fd3a4b-c041-4cc5-8470-817e9e4a6f99" />
   <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/4401679d-8253-48ef-84e0-e47890db2f6c" />
@@ -19,7 +17,6 @@
   <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/49e43581-111a-41d4-9a5c-464b7cbe2ae4" />
   <img width="100" height="85" alt="image" src="https://github.com/user-attachments/assets/a8081c13-ae3b-435e-be3b-ac9bfb87939d" />
 
-</div>
 
 <!--
 **Swapnil2298/Swapnil2298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
